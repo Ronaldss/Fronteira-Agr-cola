@@ -99,12 +99,24 @@ main {
 }
 
 /* Footer */
-.footer {
+footer {
     background-color: #a60d0d;
     color: white;
-    text-align: center;
     padding: 10px 20px;
+    text-align: center;
+    font-size: 14px;
+    position: relative;
 }
+
+footer a img:hover {
+    opacity: 1;
+    transform: scale(1.1);
+}
+
+footer a img {
+    margin-left: 8px;
+}
+
 
 /* Animações */
 @keyframes fadeIn {

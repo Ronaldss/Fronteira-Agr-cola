@@ -38,4 +38,21 @@ O site explora de forma visual e interativa os conceitos relacionados à expans�
 1. Clone o repositório:
 ```bash
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
+```
+2. Acesse a pasta do projeto:
+```bash
+cd nome-do-repositorio
+```
+3. Abra o arquivo `index.html` no seu navegador.
+
+## 👨‍💻 Autor
+
+Desenvolvido por **Ronald SS**, apaixonado por tecnologia, redes e programação.  
+📧 Contato: ronald23.nt@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/ronaldtec/) | [GitHub](https://github.com/ronaldss) | [Instagram](https://www.instagram.com/ronald.dev8/)
+
+## 💡 Observações
+
+- Este projeto foi desenvolvido para fins educacionais, como apoio a um trabalho escolar.  
+- Todos os elementos gráficos e conteúdos foram pensados para uma experiência amigável e didática.
 

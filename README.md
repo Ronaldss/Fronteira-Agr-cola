@@ -20,11 +20,11 @@ O site explora de forma visual e interativa os conceitos relacionados à expans�
 
 ## 📸 Preview do Projeto
 
-![Imagem da miniatura do vídeo](./thumbnail_otimizada_youtube.jpg)
+![Imagem da miniatura do vídeo](https://raw.githubusercontent.com/Ronaldss/Fronteira-Agr-cola/refs/heads/main/assets/img/miniatura.png)
 
 ## 🔗 Acesse o site
 
-👉 [Acessar site hospedado na Vercel](https://seulink.vercel.app) *(Substituir pelo seu link quando publicar)*
+👉 [Acessar site hospedado na Vercel](https://fronteira-agricola.vercel.app/)
 
 ## 🛠️ Tecnologias Utilizadas
 
